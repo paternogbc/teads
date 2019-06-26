@@ -18,7 +18,7 @@ devtools::install_github("paternogbc/teads")
 
 ## Included datasets
 
-See the package [reference site](https://paternogbc.github.io/teads/reference/index.html) for detailed documentatiom of each included dataset.
+See the package [reference site](https://paternogbc.github.io/teads) for detailed documentatiom of each included dataset.
 
 *** 
 Please note that the 'teads' project is released with a
