@@ -4,7 +4,6 @@
 [![Travis build status](https://travis-ci.org/paternogbc/teads.svg?branch=master)](https://travis-ci.org/paternogbc/teads)
 [![CRAN status](https://www.r-pkg.org/badges/version/teads)](https://cran.r-project.org/package=teads)
 [![Lifecycle: maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
-[![Codecov test coverage](https://codecov.io/gh/paternogbc/teads/branch/master/graph/badge.svg)](https://codecov.io/gh/paternogbc/teads?branch=master)
 <!-- badges: end -->
 
 Worldwide __datasets__ for __teaching__ data science and data visualization.
