@@ -21,5 +21,5 @@ warming <- raw %>%
                 month = lubridate::month(date),
                 day = lubridate::day(date)) %>%
   select(source, year, month, day, temp)
-warming
+
 usethis::use_data(warming, overwrite = TRUE)
